@@ -1,1 +1,2 @@
 my first commit completed
+making some changes so we can send a pull request to the original owner of this repo
